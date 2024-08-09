@@ -1,4 +1,4 @@
-from langchain.chat_models import ChatOpenAI
+from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 from langchain.tools.render import format_tool_to_openai_function
 from langchain.agents.output_parsers import OpenAIFunctionsAgentOutputParser
