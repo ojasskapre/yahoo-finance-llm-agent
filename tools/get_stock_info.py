@@ -1,6 +1,5 @@
 # Description: A tool to fetch all stock information for a given ticker symbol.
 from langchain.tools import tool
-from typing import Optional
 from pydantic import BaseModel, Field
 from enum import Enum
 
