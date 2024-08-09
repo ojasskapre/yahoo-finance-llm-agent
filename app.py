@@ -65,14 +65,26 @@ Welcome to the Finance Insights Assistant! This application leverages OpenAI, La
 st.sidebar.markdown("### Sample Questions")
 sample_questions = {
     "Stock Information": [
-        "What is the current price of Apple stock?",
+        "Give me information about Microsoft"
+        "What is the current price of Apple?",
         "Give me the historical data for Tesla over the last month.",
         "What are the latest news articles for Microsoft?"
     ],
     "Financial Statements": [
         "Show me the latest income statement for Google.",
         "What is the quarterly cash flow for Amazon?",
-        "Can you provide the annual balance sheet for Facebook?"
+        "Can you provide the annual balance sheet for Facebook?",
+        "Please provide the quarterly balance sheet for Amazon."
+    ],
+    "Splits and Dividends": [
+        "Give me dividends and splits for Goldman Sachs",
+        "Give me splits for apple",
+        "Give me dividends for cocacola"
+    ],
+    "Shares Count": [
+        "Tell me the number of Microsoft shares outstanding since January 1, 2022.",
+        "How many shares did Microsoft have outstanding between January 1, 2022, and December 31, 2022?",
+        "What is the most recent number of Microsoft shares outstanding?",
     ],
     "Options Data": [
         "What are the available options expiration dates for Apple?",
@@ -80,16 +92,20 @@ sample_questions = {
     ],
     "Holders and Recommendations": [
         "Who are the major holders of Netflix?",
+        "Which mutual funds hold the most shares in Amazon?",
         "What are the recent analyst recommendations for Tesla?",
-        "Show me the recent insider transactions for Microsoft."
+        "Show me the recent insider transactions for Microsoft.",
+        "What are the sustainability scores for Google?",
+        "Can you provide a summary of the latest recommendations for Tesla?"
     ]
 }
 
 # Display Sample Questions in the Sidebar with Expanders
 for category, questions in sample_questions.items():
-    with st.sidebar.expander(f"{category}"):
-        for question in questions:
-            st.sidebar.markdown(f"- {question}")
+    with st.sidebar:
+        with st.expander(f"{category}"):
+            for question in questions:
+                st.markdown(f"- {question}")
 
 # TODO: Accept OpenAI API key as input in sidebar
 

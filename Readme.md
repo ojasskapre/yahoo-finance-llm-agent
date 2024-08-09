@@ -12,6 +12,7 @@ This application leverages OpenAI's language models, the Yahoo Finance Python li
 - **LangChain Integration**: Utilizes LangChain's agents and tools for efficient task management and interaction with various data sources.
 - **Conversation Buffer Memory**: Maintains the context of the conversation by passing chat message history to the model, ensuring more coherent and context-aware responses over the course of the interaction.
 - **Powered by OpenAI**: Leverages OpenAI's language model to generate responses and provide insights based on user queries.
+- **Langsmith**: Integrated with Langsmith to easily debug, analyze and visualize the agent's conversation flow and model outputs.
 
 ## Installation
 
@@ -28,10 +29,14 @@ cd yahoo-finance-llm-agent
 pip install -r requirements.txt
 ```
 
-3. Copy the `.env.sample` file to `.env` and add the OpenAI API key.
+3. Copy the `.env.sample` file to `.env` and add the OpenAI API key. To enable tracing using Langsmith, add Langchain API Key and Project name as well.
 
 ```bash
-OPENAI_API_KEY=your-openai-api-key
+OPENAI_API_KEY=<YOUR_OPENAI_KEY_HERE>
+LANGCHAIN_TRACING_V2=true
+LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
+LANGCHAIN_API_KEY="<YOUR_LANGCHAIN_API_KEY>"
+LANGCHAIN_PROJECT="<YOUR_PROJECT_NAME_HERE>"
 ```
 
 4. To start the Streamlit app, run the following command:
