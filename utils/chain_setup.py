@@ -6,11 +6,11 @@ from langchain.prompts import MessagesPlaceholder
 from langchain.schema.runnable import RunnablePassthrough
 from langchain.agents.format_scratchpad import format_to_openai_functions
 
-def create_chain(tools):
+def create_chain(tools, model="gpt-3.5-turbo-0125"):
     functions = [format_tool_to_openai_function(f) for f in tools]
     
     # TODO: use better model with larger context window
-    model = ChatOpenAI(temperature=0).bind(functions=functions)
+    model = ChatOpenAI(model=model, temperature=0).bind(functions=functions)
 
     prompt = ChatPromptTemplate.from_messages([
         ("system", "You are a highly knowledgeable financial assistant. You provide accurate and detailed financial data, analysis, and recommendations. Use the appropriate tools to fetch real-time data when needed."),

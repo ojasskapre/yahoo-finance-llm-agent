@@ -40,8 +40,13 @@ register_tools()
 # Load the tools from the registry
 tools = tool_registry.get_tools()
 
+# Sidebar for selecting the OpenAI model
+st.sidebar.markdown("### Select OpenAI Model")
+model_options = ["gpt-4o", "gpt-4o-mini", "gpt-3.5-turbo-0125"]
+selected_model = st.sidebar.selectbox("Choose a model:", model_options, index=model_options.index("gpt-3.5-turbo-0125"))
+
 # Create the agent chain
-agent_chain = create_chain(tools)
+agent_chain = create_chain(tools, model=selected_model)
 
 # Create the memory for storing conversation history
 memory = ConversationBufferMemory(return_messages=True,memory_key="chat_history")

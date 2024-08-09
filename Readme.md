@@ -13,6 +13,7 @@ This application leverages OpenAI's language models, the Yahoo Finance Python li
 - **Conversation Buffer Memory**: Maintains the context of the conversation by passing chat message history to the model, ensuring more coherent and context-aware responses over the course of the interaction.
 - **Powered by OpenAI**: Leverages OpenAI's language model to generate responses and provide insights based on user queries.
 - **Langsmith**: Integrated with Langsmith to easily debug, analyze and visualize the agent's conversation flow and model outputs.
+- **Model Selection**: Flexibly choose from different OpenAI models (e.g., gpt-4o, gpt-4o-mini, gpt-3.5-turbo-0125) directly from the sidebar to customize the performance and capabilities of the assistant based on your needs.
 
 ## Installation
 
