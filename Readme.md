@@ -44,4 +44,5 @@ streamlit run app.py
 
 - [Streamlit Agent Tools UI with Langchain](https://python.langchain.com/v0.2/docs/integrations/callbacks/streamlit/)
 - [Streamlit Chat Message History UI with Langchain](https://python.langchain.com/v0.2/docs/integrations/memory/streamlit_chat_message_history/)
-- [Streamlit Agent UI examples GitHub repository]()
+- [Streamlit Agent UI examples GitHub repository](https://github.com/langchain-ai/streamlit-agent)
+- [Functions, Tools and Agents in Langchain](https://learn.deeplearning.ai/courses/functions-tools-agents-langchain)
