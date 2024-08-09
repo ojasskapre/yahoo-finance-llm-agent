@@ -10,6 +10,7 @@ from langchain_community.callbacks.streamlit import (
     StreamlitCallbackHandler,
 )
 from langchain.schema import ChatMessage
+from langchain.memory import ConversationBufferMemory
 
 _ = load_dotenv(find_dotenv()) # read local .env file
 openai.api_key = os.environ['OPENAI_API_KEY']
@@ -42,8 +43,11 @@ tools = tool_registry.get_tools()
 # Create the agent chain
 agent_chain = create_chain(tools)
 
+# Create the memory for storing conversation history
+memory = ConversationBufferMemory(return_messages=True,memory_key="chat_history")
+
 # Create the agent executor
-agent_executor = AgentExecutor(agent=agent_chain, tools=tools, verbose=True)
+agent_executor = AgentExecutor(agent=agent_chain, tools=tools, verbose=True, memory=memory)
 
 st.title("Yahoo Finance Agent")
 
