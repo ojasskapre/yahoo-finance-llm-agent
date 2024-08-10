@@ -1,0 +1,2112 @@
+Table 1:
+	
+☒	ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+--------------------------------------------------------------------------------
+
+Table 2:
+	
+	For the Fiscal Year EndedJune 30,2024
+	
+	OR
+	
+☐	TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+	
+	For the Transition Period From                  to
+
+--------------------------------------------------------------------------------
+
+Table 3:
+		
+Washington		91-1144442
+(STATE OF INCORPORATION)		(I.R.S. ID)
+
+--------------------------------------------------------------------------------
+
+Table 4:
+				
+				
+Securities registered pursuant to Section 12(b) of the Act:				
+				
+Title of each class		Trading Symbol		Name of exchange on which registered
+				
+Common stock, $0.00000625par value per share		MSFT		Nasdaq
+3.125% Notes due 2028		MSFT		Nasdaq
+2.625% Notes due 2033		MSFT		Nasdaq
+				
+Securities registered pursuant to Section 12(g) of the Act:				
+				
+None				
+
+--------------------------------------------------------------------------------
+
+Table 5:
+		
+Large Accelerated Filer☒		Accelerated Filer ☐
+Non-accelerated Filer ☐		Smaller Reporting Company☐
+		Emerging Growth Company☐
+
+--------------------------------------------------------------------------------
+
+Table 6:
+							
+					Page	
+			
+PART I					
+			
+		Item 1.		Business		3	
+			
+				Information about our Executive Officers		18	
+			
+		Item 1A.		Risk Factors		20	
+			
+		Item 1B.		Unresolved Staff Comments		34	
+			
+		Item 1C.		Cybersecurity		34	
+							
+		Item 2.		Properties		36	
+			
+		Item 3.		Legal Proceedings		36	
+			
+		Item 4.		Mine Safety Disclosures		36	
+			
+PART II					
+			
+		Item 5.		Market for Registrant’s Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities		37	
+			
+		Item 6.		[Reserved]		38	
+			
+		Item 7.		Management’s Discussion and Analysis of Financial Condition and Results of Operations		39	
+			
+		Item 7A.		Quantitative and Qualitative Disclosures About Market Risk		55	
+			
+		Item 8.		Financial Statements and Supplementary Data		56	
+			
+		Item 9.		Changes in and Disagreements with Accountants on Accounting and Financial Disclosure		98	
+			
+		Item 9A.		Controls and Procedures		98	
+			
+				Report of Management on Internal Control over Financial Reporting		98	
+			
+				Report of Independent Registered Public Accounting Firm		99	
+			
+		Item 9B.		Other Information		101	
+				
+		Item 9C.		Disclosure Regarding Foreign Jurisdictions that Prevent Inspections		101	
+			
+PART III					
+			
+		Item 10.		Directors, Executive Officers, and Corporate Governance		101	
+			
+		Item 11.		Executive Compensation		102	
+			
+		Item 12.		Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters		102	
+			
+		Item 13.		Certain Relationships and Related Transactions, and Director Independence		102	
+			
+		Item 14.		Principal Accountant Fees and Services		102	
+			
+PART IV					
+			
+		Item 15.		Exhibit and Financial Statement Schedules		103	
+			
+		Item 16.		Form 10-K Summary		110	
+							
+				Signatures		111	
+
+--------------------------------------------------------------------------------
+
+Table 7:
+						
+Name		Age			Position with the Company
+
+		
+Satya Nadella			56			Chairman and Chief Executive Officer
+Judson B. Althoff			51			Executive Vice President and Chief Commercial Officer
+Kathleen T. Hogan			58			Executive Vice President and Chief Human Resources Officer
+Amy E. Hood			52			Executive Vice President and Chief Financial Officer
+Takeshi Numoto			53			Executive Vice President and Chief Marketing Officer
+Bradford L. Smith			65			Vice Chair and President
+Christopher D. Young			52			Executive Vice President, Business Development, Strategy, and Ventures
+
+
+--------------------------------------------------------------------------------
+
+Table 8:
+												
+(Square feet in millions)	
+	
+				
+Location		Owned			Leased			Total	
+			
+U.S.			30				20				50	
+International			10				25				35	
+									
+									
+Total			40				45				85	
+												
+
+--------------------------------------------------------------------------------
+
+Table 9:
+																	
+Period		Total Numberof SharesPurchased			Average PricePaid Per Share			Total Number ofShares Purchasedas Part of PubliclyAnnounced Plansor Programs			Approximate DollarValue of Shares ThatMay Yet BePurchased Under thePlans or Programs	
+	
+	
+		(In millions)	
+						
+April 1, 2024 – April 30, 2024			2,444,905			$	413.75				2,444,905			$	12,138	
+May 1, 2024 – May 31, 2024			2,233,450				416.85				2,233,450				11,207	
+June 1, 2024 – June 30, 2024			1,963,873				436.58				1,963,873				10,349	
+																
+																
+			6,642,228								6,642,228					
+																
+
+--------------------------------------------------------------------------------
+
+Table 10:
+																
+Declaration Date			Record Date				Payment Date				DividendPer Share				Amount	
+																
+																
+															(In millions)	
+																
+June 12, 2024			August 15, 2024				September 12, 2024			$	0.75			$	5,575	
+																
+
+--------------------------------------------------------------------------------
+
+Table 11:
+		
+Commercial remaining performance obligation		Commercial portion of revenue allocated to remaining performance obligations, which includes unearned revenue and amounts that will be invoiced and recognized as revenue in future periods
+		
+Microsoft Cloud revenue and revenue growth		Revenue from Azure and other cloud services, Office 365 Commercial, the commercial portion of LinkedIn, Dynamics 365, and other commercial cloud properties
+		
+Microsoft Cloud gross margin percentage		Gross margin percentage for our Microsoft Cloud business
+
+--------------------------------------------------------------------------------
+
+Table 12:
+		
+Office Commercial products and cloud services revenue growth		Revenue from Office Commercial products and cloud services (Office 365 subscriptions, the Office 365 portion of Microsoft 365 Commercial subscriptions, and Office licensed on-premises), comprising Office, Exchange, SharePoint, Microsoft Teams, Office 365 Security and Compliance, Microsoft Viva, and Copilot for Microsoft 365
+		
+Office Consumer products and cloud services revenue growth		Revenue from Office Consumer products and cloud services, including Microsoft 365 Consumer and Copilot Pro subscriptions, Office licensed on-premises, and other Office services
+		
+Office 365 Commercial seat growth		The number of Office 365 Commercial seats at end of period where seats are paid users covered by an Office 365 Commercial subscription
+		
+Microsoft 365 Consumer subscribers		The number of Microsoft 365 Consumer and Copilot Pro subscribers at end of period
+		
+Dynamics products and cloud services revenue growth		Revenue from Dynamics products and cloud services, including Dynamics 365, comprising a set of intelligent, cloud-based applications across ERP, CRM, Power Apps, and Power Automate; and on-premises ERP and CRM applications
+		
+LinkedIn revenue growth		Revenue from LinkedIn, including Talent Solutions, Marketing Solutions, Premium Subscriptions, and Sales Solutions
+		
+Server products and cloud services revenue growth		Revenue from Server products and cloud services, including Azure and other cloud services; SQL Server, Windows Server, Visual Studio, System Center, and related Client Access Licenses (“CALs”); and Nuance and GitHub
+
+--------------------------------------------------------------------------------
+
+Table 13:
+		
+Windows OEM revenue growth		Revenue from sales of Windows Pro and non-Pro licenses sold through the OEM channel
+		
+Windows Commercial products and cloud services revenue growth		Revenue from Windows Commercial products and cloud services, comprising volume licensing of the Windows operating system, Windows cloud services, and other Windows commercial offerings
+		
+Devices revenue growth		Revenue from Devices, including Surface, HoloLens, and PC accessories
+		
+Xbox content and services revenue growth		Revenue from Xbox content and services, comprising first-party content (such as Activision Blizzard) and third-party content, including games and in-game content; Xbox Game Pass and other subscriptions; Xbox Cloud Gaming; advertising; third-party disc royalties; and other cloud services
+		
+Search and news advertising revenue (ex TAC) growth		Revenue from search and news advertising excluding traffic acquisition costs (“TAC”) paid to Bing Ads network publishers and news partners
+
+--------------------------------------------------------------------------------
+
+Table 14:
+												
+(In millions, except percentages and per share amounts)		2024			2023			PercentageChange	
+									
+									
+Revenue		$	245,122			$	211,915				16%	
+Gross margin			171,008				146,052				17%	
+Operating income			109,433				88,523				24%	
+Net income			88,136				72,361				22%	
+Diluted earnings per share			11.80				9.68				22%	
+												
+Adjusted gross margin (non-GAAP)			171,008				146,204				17%	
+Adjusted operating income (non-GAAP)			109,433				89,694				22%	
+Adjusted net income (non-GAAP)			88,136				73,307				20%	
+Adjusted diluted earnings per share (non-GAAP)			11.80				9.81				20%	
+												
+
+--------------------------------------------------------------------------------
+
+Table 15:
+												
+(In millions, except percentages)		2024			2023			PercentageChange	
+									
+									
+Revenue												
+			
+Productivity and Business Processes		$	77,728			$	69,274				12%	
+Intelligent Cloud			105,362				87,907				20%	
+More Personal Computing			62,032				54,734				13%	
+									
+									
+Total		$	245,122			$	211,915				16%	
+												
+			
+Operating Income												
+												
+Productivity and Business Processes		$	40,540			$	34,189				19%	
+Intelligent Cloud			49,584				37,884				31%	
+More Personal Computing			19,309				16,450				17%	
+									
+									
+Total		$	109,433			$	88,523				24%	
+												
+
+--------------------------------------------------------------------------------
+
+Table 16:
+												
+(In millions, except percentages)		2024			2023			PercentageChange	
+
+									
+Research and development		$	29,510			$	27,195				9%	
+As a percent of revenue			12%				13%				(1)ppt	
+												
+
+--------------------------------------------------------------------------------
+
+Table 17:
+												
+(In millions, except percentages)		2024			2023			PercentageChange	
+									
+									
+Sales and marketing		$	24,456			$	22,759				7%	
+As a percent of revenue			10%				11%				(1)ppt	
+												
+
+--------------------------------------------------------------------------------
+
+Table 18:
+												
+(In millions, except percentages)		2024			2023			PercentageChange	
+									
+									
+General and administrative		$	7,609			$	7,575				0%	
+As a percent of revenue			3%				4%				(1)ppt	
+												
+
+--------------------------------------------------------------------------------
+
+Table 19:
+								
+(In millions)						
+						
+						
+Year Ended June 30,			2024				2023	
+		
+Interest and dividends income		$	3,157			$	2,994	
+Interest expense			(2,935	)			(1,968	)
+Net recognized gains (losses) on investments			(118	)			260	
+Net losses on derivatives			(187	)			(456	)
+Net gains (losses) on foreign currency remeasurements			(244	)			181	
+Other, net			(1,319	)			(223	)
+					
+					
+Total		$	(1,646	)		$	788	
+								
+
+--------------------------------------------------------------------------------
+
+Table 20:
+												
+(In millions, except percentagesand per share amounts)		2024			2023			PercentageChange	
+												
+												
+Gross margin		$	171,008			$	146,052				17%	
+Severance, hardware-related impairment, and lease consolidation costs			0				152				*	
+												
+												
+Adjusted gross margin (non-GAAP)		$	171,008			$	146,204				17%	
+												
+												
+Operating income		$	109,433			$	88,523				24%	
+Severance, hardware-related impairment, and lease consolidation costs			0				1,171				*	
+												
+												
+Adjusted operating income (non-GAAP)		$	109,433			$	89,694				22%	
+												
+												
+Net income		$	88,136			$	72,361				22%	
+Severance, hardware-related impairment, and lease consolidation costs			0				946				*	
+												
+												
+Adjusted net income (non-GAAP)		$	88,136			$	73,307				20%	
+												
+												
+Diluted earnings per share		$	11.80			$	9.68				22%	
+Severance, hardware-related impairment, and lease consolidation costs			0				0.13				*	
+												
+												
+Adjusted diluted earnings per share (non-GAAP)		$	11.80			$	9.81				20%	
+												
+
+--------------------------------------------------------------------------------
+
+Table 21:
+				
+(In millions)			
+	
+		
+Three Months Ending				
+	
+September 30, 2024		$	22,529	
+December 31, 2024			17,664	
+March 31, 2025			12,076	
+June 30, 2025			5,313	
+Thereafter			2,602	
+	
+	
+Total		$	60,184	
+				
+
+--------------------------------------------------------------------------------
+
+Table 22:
+												
+(In millions)		2025			Thereafter			Total	
+									
+									
+Long-term debt:(a)												
+Principal payments		$	2,250			$	48,971			$	51,221	
+Interest payments			1,618				27,041				28,659	
+Construction commitments(b)			29,892				5,499				35,391	
+Operating and finance leases, including imputed interest(c)			12,250				160,475				172,725	
+Purchase commitments(d)			68,280				3,742				72,022	
+									
+									
+Total		$	114,290			$	245,728			$	360,018	
+												
+
+--------------------------------------------------------------------------------
+
+Table 23:
+
+Satya Nadella
+Chief Executive Officer
+
+Amy E. Hood
+Executive Vice President and Chief Financial Officer
+
+Alice L. Jolla
+Corporate Vice President and Chief Accounting Officer
+
+--------------------------------------------------------------------------------
+
+Table 24:
+										
+(In millions)								
+								
+								
+Risk Categories		Hypothetical Change		June 30,2024			Impact	
+										
+Foreign currency – Revenue		10% decrease in foreign exchange rates		$	(9,605	)			Earnings	
+Foreign currency – Investments		10% decrease in foreign exchange rates			(38	)			Fair Value	
+Interest rate		100 basis point increase in U.S. treasury interest rates			(1,343	)			Fair Value	
+Credit		100 basis point increase in credit spreads			(318	)			Fair Value	
+Equity		10% decrease in equity market prices			(1,078	)			Earnings	
+										
+
+--------------------------------------------------------------------------------
+
+Table 25:
+												
+(In millions, except per share amounts)									
+	
+				
+Year Ended June 30,		2024			2023			2022	
+			
+Revenue:												
+Product		$	64,773			$	64,699			$	72,732	
+Service and other			180,349				147,216				125,538	
+									
+									
+Total revenue			245,122				211,915				198,270	
+									
+									
+Cost of revenue:												
+Product			15,272				17,804				19,064	
+Service and other			58,842				48,059				43,586	
+									
+									
+Total cost of revenue			74,114				65,863				62,650	
+									
+									
+Gross margin			171,008				146,052				135,620	
+Research and development			29,510				27,195				24,512	
+Sales and marketing			24,456				22,759				21,825	
+General and administrative			7,609				7,575				5,900	
+									
+									
+Operating income			109,433				88,523				83,383	
+Other income (expense), net			(1,646	)			788				333	
+									
+									
+Income before income taxes			107,787				89,311				83,716	
+Provision for income taxes			19,651				16,950				10,978	
+									
+									
+Net income		$	88,136			$	72,361			$	72,738	
+												
+			
+Earnings per share:												
+Basic		$	11.86			$	9.72			$	9.70	
+Diluted		$	11.80			$	9.68			$	9.65	
+Weighted average shares outstanding:												
+Basic			7,431				7,446				7,496	
+Diluted			7,469				7,472				7,540	
+	
+
+--------------------------------------------------------------------------------
+
+Table 26:
+												
+(In millions)									
+	
+				
+Year Ended June 30,		2024			2023			2022	
+			
+Net income		$	88,136			$	72,361			$	72,738	
+												
+												
+Other comprehensive income (loss), net of tax:												
+Net change related to derivatives			24				(14	)			6	
+Net change related to investments			957				(1,444	)			(5,360	)
+Translation adjustments and other			(228	)			(207	)			(1,146	)
+									
+												
+Other comprehensive income (loss)			753				(1,665	)			(6,500	)
+									
+												
+Comprehensive income		$	88,889			$	70,696			$	66,238	
+												
+
+--------------------------------------------------------------------------------
+
+Table 27:
+								
+(In millions)						
+	
+			
+June 30,		2024			2023	
+		
+Assets								
+Current assets:								
+Cash and cash equivalents		$	18,315			$	34,704	
+Short-term investments			57,228				76,558	
+					
+								
+Total cash, cash equivalents, and short-term investments			75,543				111,262	
+Accounts receivable, net of allowance for doubtful accounts of$830and $650			56,924				48,688	
+Inventories			1,246				2,500	
+Other current assets			26,021				21,807	
+					
+					
+Total current assets			159,734				184,257	
+Property and equipment, net of accumulated depreciation of$76,421and $68,251			135,591				95,641	
+Operating lease right-of-use assets			18,961				14,346	
+Equity and other investments			14,600				9,879	
+Goodwill			119,220				67,886	
+Intangible assets, net			27,597				9,366	
+Other long-term assets			36,460				30,601	
+					
+					
+Total assets		$	512,163			$	411,976	
+								
+								
+Liabilities and stockholders’ equity								
+Current liabilities:								
+Accounts payable		$	21,996			$	18,095	
+Short-term debt			6,693				0	
+Current portion of long-term debt			2,249				5,247	
+Accrued compensation			12,564				11,009	
+Short-term income taxes			5,017				4,152	
+Short-term unearned revenue			57,582				50,901	
+Other current liabilities			19,185				14,745	
+					
+					
+Total current liabilities			125,286				104,149	
+Long-term debt			42,688				41,990	
+Long-term income taxes			27,931				25,560	
+Long-term unearned revenue			2,602				2,912	
+Deferred income taxes			2,618				433	
+Operating lease liabilities			15,497				12,728	
+Other long-term liabilities			27,064				17,981	
+					
+					
+Total liabilities			243,686				205,753	
+					
+					
+Commitments and contingencies								
+Stockholders’ equity:								
+Common stock and paid-in capital – shares authorized24,000; outstanding7,434and7,432			100,923				93,718	
+Retained earnings			173,144				118,848	
+Accumulated other comprehensive loss			(5,590	)			(6,343	)
+					
+					
+Total stockholders’ equity			268,477				206,223	
+					
+					
+Total liabilities and stockholders’ equity		$	512,163			$	411,976	
+								
+
+--------------------------------------------------------------------------------
+
+Table 28:
+												
+(In millions)									
+	
+			
+Year Ended June 30,		2024			2023			2022	
+			
+Operations												
+Net income		$	88,136			$	72,361			$	72,738	
+Adjustments to reconcile net income to net cash from operations:												
+Depreciation, amortization, and other			22,287				13,861				14,460	
+Stock-based compensation expense			10,734				9,611				7,502	
+Net recognized losses (gains) on investments and derivatives			305				196				(409	)
+Deferred income taxes			(4,738	)			(6,059	)			(5,702	)
+Changes in operating assets and liabilities:												
+Accounts receivable			(7,191	)			(4,087	)			(6,834	)
+Inventories			1,284				1,242				(1,123	)
+Other current assets			(1,648	)			(1,991	)			(709	)
+Other long-term assets			(6,817	)			(2,833	)			(2,805	)
+Accounts payable			3,545				(2,721	)			2,943	
+Unearned revenue			5,348				5,535				5,109	
+Income taxes			1,687				(358	)			696	
+Other current liabilities			4,867				2,272				2,344	
+Other long-term liabilities			749				553				825	
+									
+												
+Net cash from operations			118,548				87,582				89,035	
+									
+												
+Financing												
+Proceeds from issuance of debt, maturities of 90 days or less, net			5,250				0				0	
+Proceeds from issuance of debt			24,395				0				0	
+Repayments of debt			(29,070	)			(2,750	)			(9,023	)
+Common stock issued			2,002				1,866				1,841	
+Common stock repurchased			(17,254	)			(22,245	)			(32,696	)
+Common stock cash dividends paid			(21,771	)			(19,800	)			(18,135	)
+Other, net			(1,309	)			(1,006	)			(863	)
+									
+												
+Net cash used in financing			(37,757	)			(43,935	)			(58,876	)
+									
+												
+Investing												
+Additions to property and equipment			(44,477	)			(28,107	)			(23,886	)
+Acquisition of companies, net of cash acquired, and purchases of intangible and other assets			(69,132	)			(1,670	)			(22,038	)
+Purchases of investments			(17,732	)			(37,651	)			(26,456	)
+Maturities of investments			24,775				33,510				16,451	
+Sales of investments			10,894				14,354				28,443	
+Other, net			(1,298	)			(3,116	)			(2,825	)
+									
+												
+Net cash used in investing			(96,970	)			(22,680	)			(30,311	)
+									
+												
+Effect of foreign exchange rates on cash and cash equivalents			(210	)			(194	)			(141	)
+									
+												
+Net change in cash and cash equivalents			(16,389	)			20,773				(293	)
+Cash and cash equivalents, beginning of period			34,704				13,931				14,224	
+									
+												
+Cash and cash equivalents, end of period		$	18,315			$	34,704			$	13,931	
+												
+
+--------------------------------------------------------------------------------
+
+Table 29:
+												
+(In millions, except per share amounts)									
+	
+	
+Year Ended June 30,		2024			2023			2022	
+			
+Common stock and paid-in capital												
+Balance, beginning of period		$	93,718			$	86,939			$	83,111	
+Common stock issued			2,002				1,866				1,841	
+Common stock repurchased			(5,712	)			(4,696	)			(5,688	)
+Stock-based compensation expense			10,734				9,611				7,502	
+Other, net			181				(2	)			173	
+									
+									
+Balance, end of period			100,923				93,718				86,939	
+									
+									
+Retained earnings												
+Balance, beginning of period			118,848				84,281				57,055	
+Net income			88,136				72,361				72,738	
+Common stock cash dividends			(22,293	)			(20,226	)			(18,552	)
+Common stock repurchased			(11,547	)			(17,568	)			(26,960	)
+									
+									
+Balance, end of period			173,144				118,848				84,281	
+									
+									
+Accumulated other comprehensive loss												
+Balance, beginning of period			(6,343	)			(4,678	)			1,822	
+Other comprehensive income (loss)			753				(1,665	)			(6,500	)
+									
+									
+Balance, end of period			(5,590	)			(6,343	)			(4,678	)
+									
+									
+Total stockholders’ equity		$	268,477			$	206,223			$	166,542	
+												
+												
+Cash dividends declared per common share		$	3.00			$	2.72			$	2.48	
+												
+
+--------------------------------------------------------------------------------
+
+Table 30:
+												
+(In millions)												
+												
+												
+Year Ended June 30,			2024				2023				2022	
+									
+Balance, beginning of period		$	716			$	710			$	798	
+Charged to costs and other			386				258				157	
+Write-offs			(218	)			(252	)			(245	)
+									
+												
+Balance, end of period		$	884			$	716			$	710	
+												
+
+--------------------------------------------------------------------------------
+
+Table 31:
+												
+(In millions)												
+												
+												
+June 30,			2024				2023				2022	
+									
+Accounts receivable, net of allowance for doubtful accounts		$	830			$	650			$	633	
+Other long-term assets			54				66				77	
+									
+												
+Total		$	884			$	716			$	710	
+												
+
+--------------------------------------------------------------------------------
+
+Table 32:
+												
+(In millions, except per share amounts)									
+									
+									
+Year Ended June 30,		2024			2023			2022	
+												
+Net income available for common shareholders (A)		$	88,136			$	72,361			$	72,738	
+												
+												
+Weighted average outstanding shares of common stock (B)			7,431				7,446				7,496	
+Dilutive effect of stock-based awards			38				26				44	
+												
+												
+Common stock and common stock equivalents (C)			7,469				7,472				7,540	
+												
+												
+Earnings Per Share												
+												
+Basic (A/B)		$	11.86			$	9.72			$	9.70	
+Diluted (A/C)		$	11.80			$	9.68			$	9.65	
+												
+
+--------------------------------------------------------------------------------
+
+Table 33:
+												
+(In millions)									
+	
+	
+Year Ended June 30,		2024			2023			2022	
+			
+Interest and dividends income		$	3,157			$	2,994			$	2,094	
+Interest expense			(2,935	)			(1,968	)			(2,063	)
+Net recognized gains (losses) on investments			(118	)			260				461	
+Net losses on derivatives			(187	)			(456	)			(52	)
+Net gains (losses) on foreign currency remeasurements			(244	)			181				(75	)
+Other, net			(1,319	)			(223	)			(32	)
+									
+									
+Total		$	(1,646	)		$	788			$	333	
+												
+
+--------------------------------------------------------------------------------
+
+Table 34:
+												
+(In millions)									
+	
+				
+Year Ended June 30,		2024			2023			2022	
+			
+Realized gains from sales of available-for-sale securities		$	22			$	36			$	162	
+Realized losses from sales of available-for-sale securities			(98	)			(124	)			(138	)
+Impairments and allowance for credit losses			23				(10	)			(81	)
+									
+									
+Total		$	(53	)		$	(98	)		$	(57	)
+												
+
+--------------------------------------------------------------------------------
+
+Table 35:
+												
+(In millions)									
+	
+				
+Year Ended June 30,		2024			2023			2022	
+			
+Net realized gains on investments sold		$	18			$	75			$	29	
+Net unrealized gains on investments still held			146				303				509	
+Impairments of investments			(229	)			(20	)			(20	)
+									
+									
+Total		$	(65	)		$	358			$	518	
+												
+
+--------------------------------------------------------------------------------
+
+Table 36:
+																																
+(In millions)		Fair ValueLevel			AdjustedCost Basis			UnrealizedGains			UnrealizedLosses			RecordedBasis			Cashand CashEquivalents		Short-termInvestments			Equity and OtherInvestments	
+																																
+																																
+June 30, 2024																																
+																																
+Changes in Fair Value Recorded in Other Comprehensive Income																																
+																																
+Commercial paper			Level 2			$	4,666			$	0			$	0			$	4,666			$	4,666			$	0			$	0	
+Certificates of deposit			Level 2				1,547				0				0				1,547				1,503				44				0	
+U.S. government securities			Level 1				49,603				4				(2,948	)			46,659				14				46,645				0	
+U.S. agency securities			Level 2				17				0				0				17				0				17				0	
+Foreign government bonds			Level 2				319				3				(16	)			306				0				306				0	
+Mortgage- and asset-backed securities			Level 2				944				3				(35	)			912				0				912				0	
+Corporate notes and bonds			Level 2				9,106				28				(318	)			8,816				0				8,816				0	
+Corporate notes and bonds			Level 3				1,641				0				(1	)			1,640				0				140				1,500	
+Municipal securities			Level 2				262				0				(13	)			249				0				249				0	
+Municipal securities			Level 3				104				0				(17	)			87				0				87				0	
+																																
+																																
+Total debt investments						$	68,209			$	38			$	(3,348	)		$	64,899			$	6,183			$	57,216			$	1,500	
+																																
+																																
+Changes in Fair Value Recorded in Net Income																																
+																																
+Equity investments			Level 1															$	3,547			$	561			$	0			$	2,986	
+Equity investments			Other																10,114				0				0				10,114	
+																																
+																																
+Total equity investments																		$	13,661			$	561			$	0			$	13,100	
+																																
+																																
+Cash																		$	11,571			$	11,571			$	0			$	0	
+Derivatives, net(a)																			12				0				12				0	
+																																
+																																
+Total																		$	90,143			$	18,315			$	57,228			$	14,600	
+																																
+
+--------------------------------------------------------------------------------
+
+Table 37:
+																																
+(In millions)		Fair ValueLevel			AdjustedCost Basis			UnrealizedGains			UnrealizedLosses			RecordedBasis			Cashand CashEquivalents		Short-termInvestments			Equity and OtherInvestments	
+																																
+																																
+June 30, 2023																																
+																																
+Changes in Fair Value Recorded in Other Comprehensive Income																																
+																																
+Commercial paper			Level 2			$	16,589			$	0			$	0			$	16,589			$	12,231			$	4,358			$	0	
+Certificates of deposit			Level 2				2,701				0				0				2,701				2,657				44				0	
+U.S. government securities			Level 1				65,237				2				(3,870	)			61,369				2,991				58,378				0	
+U.S. agency securities			Level 2				2,703				0				0				2,703				894				1,809				0	
+Foreign government bonds			Level 2				498				1				(24	)			475				0				475				0	
+Mortgage- and asset-backed securities			Level 2				824				1				(39	)			786				0				786				0	
+Corporate notes and bonds			Level 2				10,809				8				(583	)			10,234				0				10,234				0	
+Corporate notes and bonds			Level 3				120				0				0				120				0				120				0	
+Municipal securities			Level 2				285				1				(18	)			268				7				261				0	
+Municipal securities			Level 3				103				0				(16	)			87				0				87				0	
+																																
+																																
+Total debt investments						$	99,869			$	13			$	(4,550	)		$	95,332			$	18,780			$	76,552			$	0	
+																																
+																																
+Changes in Fair Value Recorded in Net Income																																
+																																
+Equity investments			Level 1															$	10,138			$	7,446			$	0			$	2,692	
+Equity investments			Other																7,187				0				0				7,187	
+																																
+																																
+Total equity investments																		$	17,325			$	7,446			$	0			$	9,879	
+																																
+																																
+Cash																		$	8,478			$	8,478			$	0			$	0	
+Derivatives, net(a)																			6				0				6				0	
+																																
+																																
+Total																		$	121,141			$	34,704			$	76,558			$	9,879	
+																																
+
+--------------------------------------------------------------------------------
+
+Table 38:
+																								
+		Less than 12 Months			12 Months or Greater						TotalUnrealizedLosses	
+															
+													
+(In millions)		Fair Value			UnrealizedLosses			Fair Value			UnrealizedLosses			TotalFair Value		
+	
+							
+June 30, 2024																								
+						
+U.S. government and agency securities		$	529			$	(12	)		$	45,821			$	(2,936	)		$	46,350			$	(2,948	)
+Foreign government bonds			79				(2	)			180				(14	)			259				(16	)
+Mortgage- and asset-backed securities			201				(1	)			409				(34	)			610				(35	)
+Corporate notes and bonds			1,310				(9	)			5,779				(310	)			7,089				(319	)
+Municipal securities			38				(1	)			243				(29	)			281				(30	)
+																								
+																								
+Total		$	2,157			$	(25	)		$	52,432			$	(3,323	)		$	54,589			$	(3,348	)
+																								
+
+--------------------------------------------------------------------------------
+
+Table 39:
+																								
+		Less than 12 Months			12 Months or Greater								TotalUnrealizedLosses	
+														
+													
+(In millions)			Fair Value				UnrealizedLosses				Fair Value				UnrealizedLosses				TotalFair Value				
+																								
+																								
+June 30, 2023																								
+																								
+U.S. government and agency securities		$	7,950			$	(336	)		$	45,273			$	(3,534	)		$	53,223			$	(3,870	)
+Foreign government bonds			77				(5	)			391				(19	)			468				(24	)
+Mortgage- and asset-backed securities			257				(5	)			412				(34	)			669				(39	)
+Corporate notes and bonds			2,326				(49	)			7,336				(534	)			9,662				(583	)
+Municipal securities			111				(3	)			186				(31	)			297				(34	)
+																								
+																								
+Total		$	10,721			$	(398	)		$	53,598			$	(4,152	)		$	64,319			$	(4,550	)
+																								
+
+--------------------------------------------------------------------------------
+
+Table 40:
+								
+(In millions)		AdjustedCost Basis			EstimatedFair Value	
+	
+			
+June 30, 2024								
+		
+Due in one year or less		$	19,815			$	19,596	
+Due after one year through five years			38,954				36,779	
+Due after five years through 10 years			8,028				7,242	
+Due after 10 years			1,412				1,282	
+					
+								
+Total		$	68,209			$	64,899	
+								
+
+--------------------------------------------------------------------------------
+
+Table 41:
+								
+(In millions)		June 30,2024			June 30,2023	
+						
+						
+Designated as Hedging Instruments								
+		
+Foreign exchange contracts purchased		$	1,492			$	1,492	
+Interest rate contracts purchased			1,100				1,078	
+		
+Not Designated as Hedging Instruments								
+		
+Foreign exchange contracts purchased			7,167				7,874	
+Foreign exchange contracts sold			31,793				25,159	
+Equity contracts purchased			4,016				3,867	
+Equity contracts sold			2,165				2,154	
+Other contracts purchased			2,113				1,224	
+Other contracts sold			811				581	
+								
+
+--------------------------------------------------------------------------------
+
+Table 42:
+																
+		Derivative		Derivative		Derivative		Derivative	
+(In millions)		Assets		Liabilities		Assets		Liabilities	
+								
+																
+		June 30,2024		June 30,2023	
+																
+Designated as Hedging Instruments																
+																
+Foreign exchange contracts		$	24			$	(76	)		$	34			$	(67	)
+Interest rate contracts			19				0				16				0	
+																
+Not Designated as Hedging Instruments																
+																
+Foreign exchange contracts			213				(230	)			249				(332	)
+Equity contracts			63				(491	)			165				(400	)
+Other contracts			12				(3	)			5				(6	)
+																
+																
+Gross amounts of derivatives			331				(800	)			469				(805	)
+Gross amounts of derivatives offset in the balance sheets			(151	)			152				(202	)			206	
+Cash collateral received			0				(104	)			0				(125	)
+																
+																
+Net amounts of derivatives		$	180			$	(752	)		$	267			$	(724	)
+																
+																
+Reported as																
+																
+Short-term investments		$	12			$	0			$	6			$	0	
+Other current assets			149				0				245				0	
+Other long-term assets			19				0				16				0	
+Other current liabilities			0				(401	)			0				(341	)
+Other long-term liabilities			0				(351	)			0				(383	)
+																
+																
+Total		$	180			$	(752	)		$	267			$	(724	)
+																
+
+--------------------------------------------------------------------------------
+
+Table 43:
+																
+(In millions)		Level 1				Level 2			Level 3			Total	
+													
+																
+June 30, 2024																
+																
+Derivative assets		$	0			$	327			$	4			$	331	
+Derivative liabilities			(1	)			(799	)			0				(800	)
+																
+June 30, 2023																
+																
+Derivative assets			0				462				7				469	
+Derivative liabilities			0				(805	)			0				(805	)
+																
+
+--------------------------------------------------------------------------------
+
+Table 44:
+												
+(In millions)	
+									
+									
+Year Ended June 30,		2024			2023			2022	
+			
+Designated as Fair Value Hedging Instruments			
+			
+Foreign exchange contracts			
+Derivatives		$	0			$	0			$	49	
+Hedged items			0				0				(50	)
+Excluded from effectiveness assessment			0				0				4	
+Interest rate contracts			
+Derivatives			(23	)			(65	)			(92	)
+Hedged items			(25	)			38				108	
+												
+Designated as Cash Flow Hedging Instruments			
+			
+Foreign exchange contracts			
+Amount reclassified from accumulated other comprehensive loss			(48	)			61				(79	)
+												
+Not Designated as Hedging Instruments			
+												
+Foreign exchange contracts			367				(73	)			383	
+Equity contracts			(177	)			(420	)			13	
+Other contracts			(15	)			(41	)			(85	)
+												
+
+--------------------------------------------------------------------------------
+
+Table 45:
+												
+(In millions)									
+	
+				
+Year Ended June 30,		2024			2023			2022	
+			
+Designated as Cash Flow Hedging Instruments												
+			
+Foreign exchange contracts												
+Included in effectiveness assessment		$	(14	)		$	34			$	(57	)
+									
+
+--------------------------------------------------------------------------------
+
+Table 46:
+								
+(In millions)								
+	
+			
+June 30,		2024			2023	
+		
+Raw materials		$	394			$	709	
+Work in process			7				23	
+Finished goods			845				1,768	
+					
+					
+Total		$	1,246			$	2,500	
+								
+
+--------------------------------------------------------------------------------
+
+Table 47:
+								
+(In millions)	
+	
+			
+June 30,		2024			2023	
+		
+Land		$	8,163			$	5,683	
+Buildings and improvements			93,943				68,465	
+Leasehold improvements			9,594				8,537	
+Computer equipment and software			93,780				74,961	
+Furniture and equipment			6,532				6,246	
+					
+					
+Total, at cost			212,012				163,892	
+Accumulated depreciation			(76,421	)			(68,251	)
+					
+					
+Total, net		$	135,591			$	95,641	
+								
+
+--------------------------------------------------------------------------------
+
+Table 48:
+							
+(In millions)				
+				
+				
+Cash and cash equivalents		$	12,976	
+Goodwill			50,969	
+Intangible assets			21,969	
+Other assets			2,501	
+Long-term debt			(2,799	)
+Long-term income taxes			(1,914	)
+Deferred income taxes			(4,677	)
+Other liabilities			(3,617	)
+				
+				
+Total purchase price		$	75,408	
+							
+
+--------------------------------------------------------------------------------
+
+Table 49:
+								
+(In millions, except average life)		Amount			WeightedAverage Life	
+						
+						
+Marketing-related		$	11,619				24years	
+Technology-based			9,689				4years	
+Customer-related			661				4years	
+								
+								
+Fair value of intangible assets acquired		$	21,969				15years	
+							
+
+--------------------------------------------------------------------------------
+
+Table 50:
+				
+(In millions)			
+			
+			
+Year Ended June 30,			2024	
+				
+Revenue		$	5,729	
+Operating loss			(1,362	)
+				
+
+--------------------------------------------------------------------------------
+
+Table 51:
+								
+(In millions, except per share amounts)						
+						
+						
+Year Ended June 30,			2024				2023	
+								
+Revenue		$	247,442			$	219,790	
+Net income			88,308				71,383	
+Diluted earnings per share			11.82				9.55	
+								
+
+--------------------------------------------------------------------------------
+
+Table 52:
+								
+(In millions)				
+					
+					
+Goodwill(a)			$	16,326	
+Intangible assets				4,365	
+Other assets				42	
+Other liabilities(b)				(1,972	)
+					
+					
+Total			$	18,761	
+								
+
+--------------------------------------------------------------------------------
+
+Table 53:
+									
+(In millions, except average life)		Amount			WeightedAverage Life	
+							
+							
+Customer-related		$	2,610			9years	
+Technology-based			1,540			5years	
+Marketing-related			215			4years	
+					
+					
+Total		$	4,365			7years	
+								
+
+--------------------------------------------------------------------------------
+
+Table 54:
+																												
+(In millions)			June 30,2022				Acquisitions				Other				June 30,2023				Acquisitions				Other				June 30,2024	
+																												
+																												
+Productivity and Business Processes		$	24,811			$	11			$	(47	)		$	24,775			$	0			$	2			$	24,777	
+Intelligent Cloud			30,182				223				64				30,469				0				(28	)			30,441	
+More Personal Computing			12,531				0				111				12,642				51,235	(a)			125	(a)			64,002	
+																												
+																												
+Total		$	67,524			$	234			$	128			$	67,886			$	51,235			$	99			$	119,220	
+																												
+
+--------------------------------------------------------------------------------
+
+Table 55:
+																								
+(In millions)		GrossCarryingAmount			AccumulatedAmortization			Net CarryingAmount			GrossCarryingAmount			AccumulatedAmortization			Net CarryingAmount	
+	
+							
+June 30,								2024									2023	
+						
+Marketing-related		$	16,500			$	(3,101	)		$	13,399			$	4,935			$	(2,473	)		$	2,462	
+Technology-based			21,913				(10,741	)			11,172				11,245				(7,589	)			3,656	
+Customer-related			6,038				(3,051	)			2,987				7,281				(4,047	)			3,234	
+Contract-based			58				(19	)			39				29				(15	)			14	
+																					
+																								
+Total		$	44,509	(a)		$	(16,912	)		$	27,597			$	23,490			$	(14,124	)		$	9,366	
+																								
+
+--------------------------------------------------------------------------------
+
+Table 56:
+																
+(In millions)		Amount			WeightedAverage Life			Amount			WeightedAverage Life	
+	
+					
+Year Ended June 30,		2024						2023				
+				
+Marketing-related		$	11,619				24years			$	7				5years	
+Technology-based			10,947				4years				522				7years	
+Customer-related			660				4years				0				0years	
+Contract-based			38				4years				12				3years	
+													
+																
+Total		$	23,264				14years			$	541				6years	
+																
+
+--------------------------------------------------------------------------------
+
+Table 57:
+				
+(In millions)			
+	
+		
+Year Ending June 30,				
+	
+2025		$	5,892	
+2026			4,471	
+2027			2,793	
+2028			1,909	
+2029			1,728	
+Thereafter			10,804	
+	
+				
+Total		$	27,597	
+				
+
+--------------------------------------------------------------------------------
+
+Table 58:
+																								
+(In millions, issuance by calendar year)		Maturities(calendar year)		Stated InterestRate			Effective InterestRate		June 30,2024			June 30,2023	
+														
+													
+2009issuance of $3.8billion					2039					5.20%					5.24%			$	520			$	520	
+2010issuance of $4.8billion					2040					4.50%					4.57%				486				486	
+2011issuance of $2.3billion					2041					5.30%					5.36%				718				718	
+2012issuance of $2.3billion					2042					3.50%					3.57%				454				454	
+2013issuance of $5.2billion					2043			3.75%	–	4.88%			3.83%	–	4.92%				314				1,814	
+2013issuance of €4.1billion			2028	–	2033			2.63%	–	3.13%			2.69%	–	3.22%				2,465				2,509	
+2015issuance of $23.8billion			2025	–	2055			2.70%	–	4.75%			2.77%	–	4.78%				9,805				9,805	
+2016issuance of $19.8billion			2026	–	2056			2.40%	–	3.95%			2.46%	–	4.03%				7,930				9,430	
+2017issuance of $17.1billion(a)			2026	–	2057			3.30%	–	4.50%			3.38%	–	5.49%				6,833				8,945	
+2020issuance of $10.1billion(a)			2030	–	2060			1.35%	–	2.68%			2.53%	–	5.43%				10,111				10,000	
+2021issuance of $8.2billion			2052	–	2062			2.92%	–	3.04%			2.92%	–	3.04%				8,185				8,185	
+2023issuance of $0.1billion(a)			2026	–	2050			1.35%	–	4.50%			5.16%	–	5.49%				56				0	
+2024issuance of $3.3billion(a)			2026	–	2050			1.35%	–	4.50%			5.16%	–	5.49%				3,344				0	
+															
+														
+Total face value													51,221				52,866	
+Unamortized discount and issuance costs													(1,227	)			(438	)
+Hedge fair value adjustments(b)													(81	)			(106	)
+Premium on debt exchange													(4,976	)			(5,085	)
+															
+														
+Total debt													44,937				47,237	
+Current portion of long-term debt													(2,249	)			(5,247	)
+															
+														
+Long-term debt												$	42,688			$	41,990	
+																		
+
+--------------------------------------------------------------------------------
+
+Table 59:
+				
+(In millions)			
+				
+				
+Year Ending June 30,				
+				
+2025		$	2,250	
+2026			3,000	
+2027			9,250	
+2028			0	
+2029			1,876	
+Thereafter			34,845	
+				
+				
+Total		$	51,221	
+				
+
+--------------------------------------------------------------------------------
+
+Table 60:
+												
+(In millions)	
+									
+									
+Year Ended June 30,		2024			2023			2022	
+			
+Current Taxes												
+												
+U.S. federal		$	12,165			$	14,009			$	8,329	
+U.S. state and local			2,366				2,322				1,679	
+Foreign			9,858				6,678				6,672	
+												
+												
+Current taxes		$	24,389			$	23,009			$	16,680	
+												
+Deferred Taxes												
+												
+U.S. federal		$	(4,791	)		$	(6,146	)		$	(4,815	)
+U.S. state and local			(379	)			(477	)			(1,062	)
+Foreign			432				564				175	
+												
+												
+Deferred taxes		$	(4,738	)		$	(6,059	)		$	(5,702	)
+												
+												
+Provision for income taxes		$	19,651			$	16,950			$	10,978	
+												
+
+--------------------------------------------------------------------------------
+
+Table 61:
+												
+(In millions)	
+									
+									
+Year Ended June 30,		2024			2023			2022	
+			
+U.S.		$	62,886			$	52,917			$	47,837	
+Foreign			44,901				36,394				35,879	
+												
+												
+Income before income taxes		$	107,787			$	89,311			$	83,716	
+												
+
+--------------------------------------------------------------------------------
+
+Table 62:
+												
+									
+									
+Year Ended June 30,		2024			2023			2022	
+			
+Federal statutory rate			21.0%				21.0%				21.0%	
+Effect of:												
+Foreign earnings taxed at lower rates			(1.4)%				(1.8)%				(1.3)%	
+Impact of intangible property transfers			0%				0%				(3.9)%	
+Foreign-derived intangible income deduction			(1.1)%				(1.3)%				(1.1)%	
+State income taxes, net of federal benefit			1.5%				1.6%				1.4%	
+Research and development credit			(1.1)%				(1.1)%				(0.9)%	
+Excess tax benefits relating to stock-based compensation			(1.1)%				(0.7)%				(1.9)%	
+Interest, net			1.1%				0.8%				0.5%	
+Other reconciling items, net			(0.7)%				0.5%				(0.7)%	
+												
+												
+Effective rate			18.2%				19.0%				13.1%	
+												
+
+--------------------------------------------------------------------------------
+
+Table 63:
+								
+(In millions)						
+						
+						
+June 30,		2024			2023	
+		
+Deferred Income Tax Assets								
+		
+Stock-based compensation expense		$	765			$	681	
+Accruals, reserves, and other expenses			4,381				3,131	
+Loss and credit carryforwards			1,741				1,441	
+Amortization			4,159				9,440	
+Leasing liabilities			6,504				5,041	
+Unearned revenue			3,717				3,296	
+Book/tax basis differences in investments and debt			9				373	
+Capitalized research and development			11,442				6,958	
+Other			426				489	
+								
+								
+Deferred income tax assets			33,144				30,850	
+Less valuation allowance			(1,045	)			(939	)
+								
+								
+Deferred income tax assets, net of valuation allowance		$	32,099			$	29,911	
+								
+								
+Deferred Income Tax Liabilities								
+		
+Leasing assets		$	(6,503	)		$	(4,680	)
+Depreciation			(3,940	)			(2,674	)
+Deferred tax on foreign earnings			(1,837	)			(2,738	)
+Other			(167	)			(89	)
+								
+								
+Deferred income tax liabilities		$	(12,447	)		$	(10,181	)
+								
+								
+Net deferred income tax assets		$	19,652			$	19,730	
+								
+		
+Reported As								
+		
+Other long-term assets		$	22,270			$	20,163	
+Long-term deferred income tax liabilities			(2,618	)			(433	)
+								
+								
+Net deferred income tax assets		$	19,652			$	19,730	
+								
+
+--------------------------------------------------------------------------------
+
+Table 64:
+												
+(In millions)									
+									
+									
+Year Ended June 30,		2024			2023			2022	
+			
+Beginning unrecognized tax benefits		$	17,120			$	15,593			$	14,550	
+Decreases related to settlements			(76	)			(329	)			(317	)
+Increases for tax positions related to the current year			1,903				1,051				1,145	
+Increases for tax positions related to prior years(a)			4,289				870				461	
+Decreases for tax positions related to prior years			(464	)			(60	)			(246	)
+Decreases due to lapsed statutes of limitations			(12	)			(5	)			0	
+												
+												
+Ending unrecognized tax benefits		$	22,760			$	17,120			$	15,593	
+												
+
+--------------------------------------------------------------------------------
+
+Table 65:
+								
+(In millions)						
+	
+			
+June 30,		2024			2023	
+		
+Productivity and Business Processes		$	30,879			$	27,572	
+Intelligent Cloud			23,117				21,563	
+More Personal Computing			6,188				4,678	
+					
+					
+Total		$	60,184			$	53,813	
+								
+
+--------------------------------------------------------------------------------
+
+Table 66:
+				
+(In millions)			
+	
+			
+Year Ended June 30, 2024				
+		
+Balance, beginning of period		$	53,813	
+Deferral of revenue			148,701	
+Recognition of unearned revenue			(142,330	)
+				
+				
+Balance, end of period		$	60,184	
+				
+
+--------------------------------------------------------------------------------
+
+Table 67:
+												
+(In millions)											
+	
+										
+Year Ended June 30,		2024				2023				2022	
+									
+Operating lease cost		$	3,555			$	2,875			$	2,461	
+												
+												
+Finance lease cost:												
+Amortization of right-of-use assets		$	1,800			$	1,352			$	980	
+Interest on lease liabilities			734				501				429	
+									
+												
+Total finance lease cost		$	2,534			$	1,853			$	1,409	
+												
+
+--------------------------------------------------------------------------------
+
+Table 68:
+												
+(In millions)											
+	
+										
+Year Ended June 30,		2024				2023				2022	
+									
+Cash paid for amounts included in the measurement of lease liabilities:												
+Operating cash flows from operating leases		$	3,550			$	2,706			$	2,368	
+Operating cash flows from finance leases			734				501				429	
+Financing cash flows from finance leases			1,286				1,056				896	
+									
+Right-of-use assets obtained in exchange for lease obligations:												
+Operating leases			6,703				3,514				5,268	
+Finance leases			11,633				3,128				4,234	
+												
+
+--------------------------------------------------------------------------------
+
+Table 69:
+								
+(In millions, except lease term and discount rate)						
+						
+		
+June 30,		2024			2023	
+		
+Operating Leases								
+								
+Operating lease right-of-use assets		$	18,961			$	14,346	
+								
+								
+Other current liabilities		$	3,580			$	2,409	
+Operating lease liabilities			15,497				12,728	
+								
+								
+Total operating lease liabilities		$	19,077			$	15,137	
+								
+								
+Finance Leases								
+								
+Property and equipment, at cost		$	32,248			$	20,538	
+Accumulated depreciation			(6,386	)			(4,647	)
+								
+								
+Property and equipment, net		$	25,862			$	15,891	
+								
+								
+Other current liabilities		$	2,349			$	1,197	
+Other long-term liabilities			24,796				15,870	
+								
+								
+Total finance lease liabilities		$	27,145			$	17,067	
+								
+								
+Weighted Average Remaining Lease Term								
+								
+Operating leases			7years				8years	
+Finance leases			12years				11years	
+								
+Weighted Average Discount Rate								
+								
+Operating leases			3.3%				2.9%	
+Finance leases			3.9%				3.4%	
+								
+
+--------------------------------------------------------------------------------
+
+Table 70:
+								
+(In millions)						
+						
+						
+Year Ending June 30,		OperatingLeases			FinanceLeases	
+		
+2025		$	4,124			$	3,311	
+2026			3,549				3,021	
+2027			2,981				3,037	
+2028			2,405				3,026	
+2029			1,924				2,638	
+Thereafter			6,587				19,116	
+								
+								
+Total lease payments			21,570				34,149	
+Less imputed interest			(2,493	)			(7,004	)
+								
+								
+Total		$	19,077			$	27,145	
+								
+								
+
+--------------------------------------------------------------------------------
+
+Table 71:
+												
+(In millions)									
+	
+				
+Year Ended June 30,		2024			2023			2022	
+			
+Balance, beginning of year			7,432				7,464				7,519	
+Issued			34				37				40	
+Repurchased			(32	)			(69	)			(95	)
+									
+									
+Balance, end of year			7,434				7,432				7,464	
+												
+
+--------------------------------------------------------------------------------
+
+Table 72:
+																								
+(In millions)		Shares			Amount			Shares			Amount			Shares			Amount	
+	
+							
+Year Ended June 30,		2024			2023			2022	
+						
+First Quarter			11			$	3,560				17			$	4,600				21			$	6,200	
+Second Quarter			7				2,800				20				4,600				20				6,233	
+Third Quarter			7				2,800				18				4,600				26				7,800	
+Fourth Quarter			7				2,800				14				4,600				28				7,800	
+																					
+																					
+Total			32			$	11,960				69			$	18,400				95			$	28,033	
+																								
+
+--------------------------------------------------------------------------------
+
+Table 73:
+																
+Declaration Date	Record Date			Payment Date		DividendPer Share			Amount	
+	
+	
+Fiscal Year 2024									(In millions)	
+																
+September 19, 2023			November 16, 2023				December 14, 2023			$	0.75			$	5,574	
+November 28, 2023			February 15, 2024				March 14, 2024				0.75				5,573	
+March 12, 2024			May 16, 2024				June 13, 2024				0.75				5,574	
+June 12, 2024			August 15, 2024				September 12, 2024				0.75				5,575	
+																
+																
+Total										$	3.00			$	22,296	
+																
+																
+Fiscal Year 2023																
+																
+September 20, 2022			November 17, 2022				December 8, 2022			$	0.68			$	5,066	
+November 29, 2022			February 16, 2023				March 9, 2023				0.68				5,059	
+March 14, 2023			May 18, 2023				June 8, 2023				0.68				5,054	
+June 13, 2023			August 17, 2023				September 14, 2023				0.68				5,051	
+																
+																
+Total										$	2.72			$	20,230	
+																
+
+--------------------------------------------------------------------------------
+
+Table 74:
+												
+(In millions)									
+	
+				
+Year Ended June 30,		2024			2023			2022	
+			
+Derivatives												
+			
+Balance, beginning of period		$	(27	)		$	(13	)		$	(19	)
+Unrealized gains (losses), net of tax of$(4), $9, and $(15)			(14	)			34				(57	)
+Reclassification adjustments for (gains) losses included in other income (expense), net			48				(61	)			79	
+Tax expense (benefit) included in provision for income taxes			(10	)			13				(16	)
+									
+												
+Amounts reclassified from accumulated other comprehensive loss			38				(48	)			63	
+									
+												
+Net change related to derivatives, net of tax of$6, $(4), and $1			24				(14	)			6	
+									
+												
+Balance, end of period		$	(3	)		$	(27	)		$	(13	)
+									
+			
+Investments												
+			
+Balance, beginning of period		$	(3,582	)		$	(2,138	)		$	3,222	
+Unrealized gains (losses), net of tax of$247, $(393), and $(1,440)			915				(1,523	)			(5,405	)
+Reclassification adjustments for losses included in other income (expense), net			53				99				57	
+Tax benefit included in provision for income taxes			(11	)			(20	)			(12	)
+									
+									
+Amounts reclassified from accumulated other comprehensive loss			42				79				45	
+									
+									
+Net change related to investments, net of tax of$258, $(373), and $(1,428)			957				(1,444	)			(5,360	)
+									
+									
+Balance, end of period		$	(2,625	)		$	(3,582	)		$	(2,138	)
+									
+			
+Translation Adjustments and Other												
+			
+Balance, beginning of period		$	(2,734	)		$	(2,527	)		$	(1,381	)
+Translation adjustments and other, net of tax of$0, $0, and $0			(228	)			(207	)			(1,146	)
+									
+									
+Balance, end of period		$	(2,962	)		$	(2,734	)		$	(2,527	)
+									
+									
+Accumulated other comprehensive loss, end of period		$	(5,590	)		$	(6,343	)		$	(4,678	)
+												
+
+--------------------------------------------------------------------------------
+
+Table 75:
+												
+(In millions)									
+	
+				
+Year Ended June 30,		2024			2023			2022	
+			
+Stock-based compensation expense		$	10,734			$	9,611			$	7,502	
+Income tax benefits related to stock-based compensation			1,826				1,651				1,293	
+	
+
+--------------------------------------------------------------------------------
+
+Table 76:
+																			
+			
+						
+Year ended June 30,					2024						2023						2022	
+					
+Dividends per share (quarterly amounts)		$	0.68–0.75			$	0.62–0.68			$	0.56–0.62	
+Interest rates			3.8% –5.6%				2.0% –5.4%				0.03% –3.6%	
+			
+
+--------------------------------------------------------------------------------
+
+Table 77:
+								
+Shares			Weighted AverageGrant-Date FairValue	
+	
+	
+(In millions)				
+
+Stock Awards	
+		
+Nonvested balance, beginning of year			96			$	250.37	
+Granted(a)			41				339.46	
+Vested			(42	)			246.71	
+Forfeited			(7	)			270.59	
+								
+								
+Nonvested balance, end of year			88			$	292.28	
+								
+
+--------------------------------------------------------------------------------
+
+Table 78:
+												
+(Shares in millions)									
+	
+				
+Year Ended June 30,		2024			2023			2022	
+			
+Shares purchased			6				7				7	
+Average price per share		$	339.46			$	245.59			$	259.55	
+	
+
+--------------------------------------------------------------------------------
+
+Table 79:
+												
+(In millions)												
+	
+	
+Year Ended June 30,			2024				2023				2022	
+												
+Revenue												
+												
+Productivity and Business Processes		$	77,728			$	69,274			$	63,364	
+Intelligent Cloud			105,362				87,907				74,965	
+More Personal Computing			62,032				54,734				59,941	
+									
+												
+Total		$	245,122			$	211,915			$	198,270	
+												
+												
+Operating Income												
+												
+Productivity and Business Processes		$	40,540			$	34,189			$	29,690	
+Intelligent Cloud			49,584				37,884				33,203	
+More Personal Computing			19,309				16,450				20,490	
+									
+												
+Total		$	109,433			$	88,523			$	83,383	
+												
+
+--------------------------------------------------------------------------------
+
+Table 80:
+												
+(In millions)			
+	
+				
+Year Ended June 30,		2024			2023			2022	
+			
+United States(a)		$	124,704			$	106,744			$	100,218	
+Other countries			120,418				105,171				98,052	
+									
+												
+Total		$	245,122			$	211,915			$	198,270	
+												
+
+--------------------------------------------------------------------------------
+
+Table 81:
+												
+(In millions)			
+	
+				
+Year Ended June 30,		2024			2023			2022	
+			
+Server products and cloud services		$	97,726			$	79,970			$	67,350	
+Office products and cloud services			54,875				48,848				44,970	
+Windows			23,244				21,507				24,732	
+Gaming			21,503				15,466				16,230	
+LinkedIn			16,372				14,989				13,631	
+Search and news advertising			12,576				12,158				11,526	
+Enterprise and partner services			7,594				7,900				7,605	
+Dynamics products and cloud services			6,481				5,437				4,687	
+Devices			4,706				5,521				7,306	
+Other			45				119				233	
+									
+												
+Total		$	245,122			$	211,915			$	198,270	
+												
+
+--------------------------------------------------------------------------------
+
+Table 82:
+												
+(In millions)			
+	
+				
+June 30,		2024			2023			2022	
+			
+United States		$	186,106			$	114,380			$	106,430	
+Other countries			115,263				72,859				59,938	
+									
+												
+Total		$	301,369			$	187,239			$	166,368	
+												
+
+--------------------------------------------------------------------------------
+
+Table 83:
+			
+Index to Financial Statements		Page	
+Income Statements		56	
+		
+Comprehensive Income Statements		57	
+		
+Balance Sheets		58	
+		
+Cash Flows Statements		59	
+		
+Stockholders’ Equity Statements		60	
+		
+Notes to Financial Statements		61	
+		
+Report of Independent Registered Public Accounting Firm		94	
+
+--------------------------------------------------------------------------------
+
+Table 84:
+																				
+					Incorporated by Reference	
+ExhibitNumber		Exhibit Description		FiledHerewith		Form			PeriodEnding			Exhibit			Filing Date	
+							
+3.1		Amended and Restated Articles of Incorporation of Microsoft Corporation					8-K								3.1				12/1/2016	
+						
+3.2		Bylaws of Microsoft Corporation					8-K								3.2				7/3/2023	
+						
+4.1		Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee (“Base Indenture”)					S-3ASR								4.1				10/29/2015	
+																				
+4.2		Form of First Supplemental Indenture for 2.95% Notes due 2014, 4.20% Notes due 2019, and 5.20% Notes due 2039, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Base Indenture					8-K								4.2				5/15/2009	
+						
+4.5		Form of Second Supplemental Indenture for 0.875% Notes due 2013, 1.625% Notes due 2015, 3.00% Notes due 2020, and 4.50% Notes due 2040, dated as of September 27, 2010, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee					8-K								4.2				9/27/2010	
+
+--------------------------------------------------------------------------------
+
+Table 85:
+																				
+					Incorporated by Reference	
+ExhibitNumber		Exhibit Description		FiledHerewith		Form			PeriodEnding			Exhibit			Filing Date	
+																				
+4.6		Third Supplemental Indenture for 2.500% Notes due 2016, 4.000% Notes due 2021, and 5.300% Notes due 2041, dated as of February 8, 2011, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee					8-K								4.2				2/8/2011	
+						
+4.7		Fourth Supplemental Indenture for 0.875% Notes due 2017, 2.125% Notes due 2022, and 3.500% Notes due 2042, dated as of November 7, 2012, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee					8-K								4.1				11/7/2012	
+							
+4.8		Fifth Supplemental Indenture for 2.625% Notes due 2033, dated as of May 2, 2013, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee					8-K								4.1				5/1/2013	
+						
+4.9		Sixth Supplemental Indenture for 1.000% Notes due 2018, 2.375% Notes due 2023, and 3.750% Notes due 2043, dated as of May 2, 2013, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee					8-K								4.2				5/1/2013	
+																				
+4.10		Seventh Supplemental Indenture for 2.125% Notes due 2021 and 3.125% Notes due 2028, dated as of December 6, 2013, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee					8-K								4.1				12/6/2013	
+
+--------------------------------------------------------------------------------
+
+Table 86:
+																				
+					Incorporated by Reference	
+ExhibitNumber		Exhibit Description		FiledHerewith		Form			PeriodEnding			Exhibit			Filing Date	
+						
+4.11		Eighth Supplemental Indenture for 1.625% Notes due 2018, 3.625% Notes due 2023, and 4.875% Notes due 2043, dated as of December 6, 2013, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee					8-K								4.2				12/6/2013	
+						
+4.12		Ninth Supplemental Indenture for 1.850% Notes due 2020, 2.375% Notes due 2022, 2.700% Notes due 2025, 3.500% Notes due 2035, 3.750% Notes due 2045, and 4.000% Notes due 2055, dated as of February 12, 2015, between Microsoft Corporation and U.S. Bank National Association, as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as trustee					8-K								4.1				2/12/2015	
+																				
+4.13		Tenth Supplemental Indenture for 1.300% Notes due 2018, 2.000% Notes due 2020, 2.650% Notes due 2022, 3.125% Notes due 2025, 4.200% Notes due 2035, 4.450% Notes due 2045, and 4.750% Notes due 2055, dated as of November 3, 2015, between Microsoft Corporation and U.S. Bank National Association, as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as trustee					8-K								4.1				11/3/2015	
+																				
+4.14		Eleventh Supplemental Indenture for 1.100% Notes due 2019, 1.550% Notes due 2021, 2.000% Notes due 2023, 2.400% Notes due 2026, 3.450% Notes due 2036, 3.700% Notes due 2046, and 3.950% Notes due 2056, dated as of August 8, 2016, between Microsoft Corporation and U.S. Bank, National Association, as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as trustee					8-K								4.1				8/5/2016	
+
+--------------------------------------------------------------------------------
+
+Table 87:
+																				
+					Incorporated by Reference	
+ExhibitNumber		Exhibit Description		FiledHerewith		Form			PeriodEnding			Exhibit			Filing Date	
+							
+4.15		Twelfth Supplemental Indenture for 1.850% Notes due 2020, 2.400% Notes due 2022, 2.875% Notes due 2024, 3.300% Notes due 2027, 4.100% Notes due 2037, 4.250% Notes due 2047, and 4.500% Notes due 2057, dated as of February 6, 2017, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as trustee					8-K								4.1				2/3/2017	
+						
+4.16		Thirteenth Supplemental Indenture for 2.525% Notes due 2050 and 2.675% Notes due 2060, dated as of June 1, 2020, between Microsoft Corporation and U.S. Bank National Association, as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as trustee					8-K								4.1				6/1/2020	
+																				
+4.17		Fourteenth Supplemental Indenture for 2.921% Notes due 2052 and 3.041% Notes due 2062, dated as of March 17, 2021, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee, to the Indenture, dated as of May 18, 2009, between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as trustee					8-K								4.1				3/17/2021	
+																				
+4.18		Fifteenth Supplemental Indenture, dated as of November 6, 2023, by and between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as Trustee					8-K								4.2				11/6/2023	
+																				
+4.19		Indenture, dated as of September 19, 2016, by and between Activision Blizzard, Inc. and Wells Fargo Bank, National Association, as Trustee, with respect to Activision Blizzard, Inc.’s 3.400% Senior Notes due 2026					8-K								4.9				11/6/2023	
+																				
+
+--------------------------------------------------------------------------------
+
+Table 88:
+																				
+					Incorporated by Reference	
+ExhibitNumber		Exhibit Description		FiledHerewith		Form			PeriodEnding			Exhibit			Filing Date	
+4.20		Base Indenture, dated as of May 26, 2017, by and between Activision Blizzard, Inc. and Wells Fargo Bank, National Association, as Trustee, with respect to Activision Blizzard, Inc.’s 3.400% Senior Notes due 2027, 1.350% Senior Notes due 2030, 4.500% Senior Notes due 2047 and 2.500% Senior Notes due 2050					8-K								4.10				11/6/2023	
+																				
+4.21		First Supplemental Indenture, dated as of May 26, 2017, by and between Activision Blizzard, Inc. and Wells Fargo Bank, National Association, as Trustee, with respect to Activision Blizzard, Inc.’s 3.400% Senior Notes due 2027 and 4.500% Senior Notes due 2047					8-K								4.11				11/6/2023	
+																				
+4.22		Second Supplemental Indenture, dated as of August 10, 2020, by and between Activision Blizzard, Inc. and Wells Fargo Bank, National Association, as Trustee, with respect to Activision Blizzard, Inc.’s 1.350% Senior Notes due 2030 and 2.500% Senior Notes due 2050					8-K								4.12				11/6/2023	
+																				
+4.23		First Supplemental Indenture, dated as of October 27, 2023, by and between Activision Blizzard, Inc. and Computershare Trust Company, N.A., with respect to Activision Blizzard, Inc.’s 3.400% Senior Notes due 2026					8-K								4.13				11/6/2023	
+																				
+4.24		Third Supplemental Indenture, dated as of October 27, 2023, by and between Activision Blizzard, Inc. and Computershare Trust Company, N.A., with respect to Activision Blizzard, Inc.’s 3.400% Senior Notes due 2027 and 4.500% Senior Notes due 2047					8-K								4.14				11/6/2023	
+																				
+4.25		Fourth Supplemental Indenture, dated as of October 27, 2023, by and between Activision Blizzard, Inc. and Computershare Trust Company, N.A., with respect to Activision Blizzard, Inc.’s 1.350% Senior Notes due 2030 and 2.500% Senior Notes due 2050					8-K								4.15				11/6/2023	
+																				
+4.26		Description of Securities		X																
+																				
+10.1*		Microsoft Corporation 2001 Stock Plan					10-Q				9/30/2016				10.1				10/20/2016	
+						
+10.4*		Microsoft Corporation Employee Stock Purchase Plan					10-K				6/30/2012				10.4				7/26/2012	
+
+--------------------------------------------------------------------------------
+
+Table 89:
+																				
+					Incorporated by Reference	
+ExhibitNumber		Exhibit Description		FiledHerewith		Form			PeriodEnding			Exhibit			Filing Date	
+						
+10.5*		Microsoft Corporation Deferred Compensation Plan		X																
+																				
+10.6*		Microsoft Corporation 2017 Stock Plan					DEF14A								Annex C				10/16/2017	
+						
+10.7*		Form of Stock Award Agreement Under the Microsoft Corporation 2017 Stock Plan					10-Q				3/31/2018				10.26				4/26/2018	
+						
+10.8*		Form of Performance Stock Award Agreement Under the Microsoft Corporation 2017 Stock Plan					10-Q				3/31/2018				10.27				4/26/2018	
+																				
+10.9		Amended and Restated Officers’ Indemnification Trust Agreement between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as trustee					10-Q				9/30/2016				10.12				10/20/2016	
+						
+10.10		Assumption of Beneficiaries’ Representative Obligations Under Amended and Restated Officers’ Indemnification Trust Agreement					10-K				6/30/2020				10.25				7/30/2020	
+						
+10.11		Form of Indemnification Agreement and Amended and Restated Directors’ Indemnification Trust Agreement between Microsoft Corporation and The Bank of New York Mellon Trust Company, N.A., as trustee					10-K				6/30/2019				10.13				8/1/2019	
+																				
+10.12		Assumption of Beneficiaries’ Representative Obligations Under Amended and Restated Directors’ Indemnification Trust Agreement					10-K				6/30/2020				10.26				7/30/2020	
+																				
+10.14*		Microsoft Corporation Deferred Compensation Plan for Non-Employee Directors					10-Q				12/31/2017				10.14				1/31/2018	
+						
+10.15*		Microsoft Corporation Executive Incentive Plan					8-K								10.1				9/19/2018	
+						
+10.19*		Microsoft Corporation Executive Incentive Plan					10-Q				9/30/2016				10.17				10/20/2016	
+																				
+10.20*		Form of Executive Incentive Plan (Executive Officer SAs) Stock Award Agreement under the Microsoft Corporation 2001 Stock Plan					10-Q				9/30/2016				10.18				10/20/2016	
+																				
+10.21*		Form of Executive Incentive Plan Performance Stock Award Agreement under the Microsoft Corporation 2001 Stock Plan					10-Q				9/30/2016				10.25				10/20/2016	
+							
+10.22*		Senior Executive Severance Benefit Plan					10-Q				9/30/2016				10.22				10/20/2016	
+						
+10.23*		Offer Letter, dated February 3, 2014, between Microsoft Corporation and Satya Nadella					8-K								10.1				2/4/2014	
+
+--------------------------------------------------------------------------------
+
+Table 90:
+																				
+					Incorporated by Reference	
+ExhibitNumber		Exhibit Description		FiledHerewith		Form			PeriodEnding			Exhibit			Filing Date	
+						
+10.24*		Long-Term Performance Stock Award Agreement between Microsoft Corporation and Satya Nadella					10-Q				12/31/2014				10.24				1/26/2015	
+																				
+10.25*		Offer Letter, dated October 25, 2020, between Microsoft Corporation and Christopher Young					10-Q				9/30/2021				10.27				10/26/2021	
+																				
+19.1		General Insider Trading Policy		X																
+																				
+19.2		Restricted Trading Window Policy		X																
+																				
+19.3		Insider Trading Compliance and Preclearance Policies for Section 16 Officers and Directors of Microsoft		X																
+						
+21		Subsidiaries of Registrant		X																
+						
+23.1		Consent of Independent Registered Public Accounting Firm		X																
+						
+31.1		Certification of Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002		X																
+																				
+31.2		Certification of Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002		X																
+																				
+32.1**		Certification of Chief Executive Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002		X																
+																				
+32.2**		Certification of Chief Financial Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002		X																
+																				
+97.1*		Microsoft CorporationExecutive Compensation Recovery Policy		X																
+																				
+101.INS		Inline XBRL Instance Document—the instance document does not appear in the Interactive Data File as its XBRL tags are embedded within the Inline XBRL document		X																
+																				
+101.SCH		Inline XBRL Taxonomy Extension Schema With Embedded Linkbase Documents		X																
+																				
+104		Cover page formatted as Inline XBRL and contained in Exhibit 101		X																
+
+--------------------------------------------------------------------------------
+
+Table 91:
+
+MICROSOFTCORPORATION
+
+/s/ ALICEL. JOLLA
+Alice L. Jolla
+Corporate Vice President and Chief Accounting Officer (Principal Accounting Officer)
+
+--------------------------------------------------------------------------------
+
+Table 92:
+		
+Signature		Title
+
+	
+/s/ SATYANADELLA		Chairman and Chief Executive Officer(Principal Executive Officer)
+Satya Nadella	
+	
+/s/ REIDHOFFMAN		Director
+Reid Hoffman	
+	
+/s/ HUGHF. JOHNSTON		Director
+Hugh F. Johnston	
+	
+/s/TERIL. LIST		Director
+Teri L. List	
+	
+/s/CATHERINEMACGREGOR		Director
+Catherine MacGregor		
+		
+/s/MARKA. L. MASON		Director
+Mark A. L. Mason		
+		
+/s/SANDRAE. PETERSON		Lead Independent Director
+Sandra E. Peterson	
+		
+/s/ PENNYS.PRITZKER		Director
+Penny S. Pritzker		
+	
+/s/ CARLOSA.RODRIGUEZ		Director
+Carlos A. Rodriguez	
+		
+/s/CHARLESW. SCHARF		Director
+Charles W. Scharf	
+	
+/s/JOHNW. STANTON		Director
+John W. Stanton	
+		
+/s/ EMMAN. WALMSLEY		Director
+Emma N. Walmsley	
+	
+/s/ AMYE. HOOD		Executive Vice President and Chief Financial Officer(Principal Financial Officer)
+Amy E. Hood	
+	
+/s/ ALICEL. JOLLA		Corporate Vice President and Chief Accounting Officer(Principal Accounting Officer)
+Alice L. Jolla	
+
+--------------------------------------------------------------------------------
+
