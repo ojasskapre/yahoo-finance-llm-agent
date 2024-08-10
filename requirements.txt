@@ -7,3 +7,5 @@ python-dotenv
 streamlit
 yfinance
 plotly
+faiss-cpu
+tiktoken
